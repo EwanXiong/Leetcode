@@ -1,2 +1,2 @@
 # Leetcode
-Leetcode coding practice
+Leetcode everyday, keep bugs away.
