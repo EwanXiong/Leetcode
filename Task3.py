@@ -19,4 +19,6 @@ class Solution:
 
         return max(length, len(queue))
 
-
+S = Solution()
+t1 = 'alskdjfhsjfkglkslaksjdhfhghdjakalskfdjghdalskdjfhghfjdkslalakdkaassdddffffgggjjhkkhllgk'
+S.lengthOfLongestSubstring(t1)
