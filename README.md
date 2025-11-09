@@ -1,2 +1,2 @@
 # Leetcode
-Leetcode today, keep errors away.
+Leetcode today, keeps bugs away.
